@@ -27,3 +27,26 @@ Warehouse management: warehouse operations.
 
 lean, demand-driven material requirements planning 
 especially big data, predictive analytics, internet of things (IoT) technology, supply chain analytics, robotics and autonomous vehicles
+
+
+Inventory Management
+
+Stock review, which is the simplest inventory management methodology and is generally more appealing to smaller businesses. 
+Stock review involves a regular analysis of stock on hand versus projected future needs. It primarily uses manual effort, 
+although there can be automated stock review to define a minimum stock level that then enables regular inventory inspections and 
+reordering of supplies to meet the minimum levels. Stock review can provide a measure of control over the inventory management 
+process, but it can be labor-intensive and prone to errors.
+
+Just-in-time (JIT) methodology, in which products arrive as they are ordered by customers, and which is based on analyzing customer 
+behavior. This approach involves researching buying patterns, seasonal demand and location-based factors that present an accurate 
+picture of what goods are needed at certain times and places. The advantage of JIT is that customer demand can be met without needing 
+to keep quantities of products on hand, but the risks include misreading the market demand or having distribution problems with 
+suppliers, which can lead to out-of-stock issues.
+
+ABC analysis methodology, which classifies inventory into three categories that represent the inventory values and cost significance 
+of the goods. Category A represents high-value and low-quantity goods, category B represents moderate-value and moderate-quantity 
+goods, and category C represents low-value and high-quantity goods. Each category can be managed separately by an inventory management 
+system, and it's important to know which items are the best sellers in order to keep quantities of buffer stock on hand. For example, 
+more expensive category A items may take longer to sell, but they may not need to be kept in large quantities. One of the advantages 
+of ABC analysis is that it provides better control over high-value goods, but a disadvantage is that it can require a considerable 
+amount of resources to continually analyze the inventory levels of all the categories.
